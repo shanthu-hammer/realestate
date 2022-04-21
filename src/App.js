@@ -1,7 +1,7 @@
 //download these
 //npm i sass
 //npm install react-router-dom@latest
-
+//npm install react-icons --save
 import "./App.scss";
 import { Routes, Route } from "react-router-dom";
 import Home from "./components/Pages/Home";
