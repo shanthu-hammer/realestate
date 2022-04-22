@@ -1,5 +1,5 @@
 import styles from "./Section5.module.scss";
-import { ArrowButton } from "../../../buttons/Buttons";
+import { ArrowButton } from "../../buttons/Button";
 import building4 from "../../../../src/assets/building4.jpg";
 import building5 from "../../../../src/assets/building5.jpg";
 const Section5 = () => {

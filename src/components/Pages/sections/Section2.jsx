@@ -1,4 +1,4 @@
-import { ArrowButton } from "../../../buttons/Buttons";
+import { ArrowButton } from "../../buttons/Button";
 import styles from "./Section2.module.scss";
 import building2 from "../../../../src/assets/building2.jpg";
 const Section2 = () => {
